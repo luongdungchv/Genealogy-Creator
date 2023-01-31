@@ -1,0 +1,9 @@
+<!DOCTYPE root[<!ELEMENT root ANY ><!ELEMENT node ANY ><!ATTLIST node name ID #REQUIRED>]>
+<root>
+  <node name="sdfsdf" dob="//" gender="Female">
+    <node name="sdfsdf" dob="//" gender="Male">
+      <node name="dfsdf" dob="//" gender="Female" />
+    </node>
+    <node name="hjghj" dob="//" gender="Male" />
+  </node>
+</root>

@@ -1,0 +1,80 @@
+<!DOCTYPE root[
+  <!ELEMENT root ANY>
+  <!ELEMENT node ANY>
+  <!ATTLIST node name ID #REQUIRED>
+
+]>
+<root>
+  <node name="Lương Đường Tân" dob="4/1/??" gender="Male" wife="Trương Thị Xuân/" dod="9/1/??">
+    <node name="Lương Bá Cường" dob="??/??/??" gender="Male" wife="Đào Thị Quả/" dod="4/1/??">
+      <node name="Lương Bá Thư" dob="??/??/??" gender="Male">
+        <node name="Lương Văn Hải" dob="20/8/1859" gender="Male" wife="Trần Thị Mậu/" dod="9/11/1941">
+          <node name="Lương Thị Hưởng" dob="//" gender="Female" />
+        </node>
+        <node name="Lương Văn Lâm" dob="??/??/??" gender="Male" wife="Phạm Thị Xe/Lê Thị Được/" dod="15/3/??">
+          <node name="Lương Thị Tuệ" dob="??/??/1923" gender="Female" />
+          <node name="Lương Thị Chi" dob="??/??/??" gender="Female" />
+        </node>
+      </node>
+    </node>
+    <node name="Lương Công Du" dob="??/??/??" gender="Male" wife="Trần Thị Hạt/" dod="8/2/??">
+      <node name="Lương Văn Kình" dob="??/??/??" gender="Male" wife="Trần Thị Đích/" dod="5/10/??">
+        <node name="Lương Văn Thuộc" dob="??/??/??" gender="Male" wife="Lương Thị Dưa/" dod="24/6/??">
+          <node name="Lương Văn Thuột" dob="??/??/??" gender="Male" wife="Lê Thị Huệ/" dod="10/8/??">
+            <node name="Lương Văn Hiệu" dob="??/??/??" gender="Male" wife="Cao Thị Sỏi/" dod="24/1/??">
+              <node name="Lương Văn Lệnh" dob="??/??/??" gender="Male" />
+              <node name="Lương Văn Lệ" dob="??/??/??" gender="Male" wife="Bùi Thị Giã/Phan Thị Lời/Hoàng Thị Nhớn/" dod="??/??/??">
+                <node name="Lương Văn Cổ" dob="10/3/1890" gender="Male" wife="Lương Thị Nhĩ/Nguyễn Thị Ái/Lương Thị Ngọc/" dod="//">
+                  <node name="Lương Văn Lợi" dob="??/??/??" gender="Male" wife="Tạ Thị Hương/" dod="//">
+                    <node name="Lương Văn Huy" dob="??/??/??" gender="Male">
+                      <node name="Lương Văn Linh" dob="??/??/??" gender="Male" wife="" dod="//" />
+                    </node>
+                    <node name="Lương Văn Hưng" dob="??/??/??" gender="Male" />
+                    <node name="Lương Văn Chỉnh" dob="??/??/??" gender="Male" />
+                    <node name="Lương Thị Thủy" dob="??/??/??" gender="Female">
+                    </node>
+                    <node name="Lương Thị Tình" dob="??/??/??" gender="Female" />
+                    <node name="Lương Thị Hằng" dob="??/??/??" gender="Female" />
+                    <node name="Lương Thị Hà" dob="??/??/??" gender="Female" />
+                  </node>
+                  <node name="Lương Văn Thịnh" dob="??/??/??" gender="Male">
+                    <node name="Lương Văn Vượng" dob="??/??/??" gender="Male" />
+                    <node name="Lương Văn Toàn" dob="??/??/??" gender="Male" />
+                    <node name="Lương Văn Hiền" dob="??/??/??" gender="Male" />
+                  </node>
+                  <node name="Lương Gia Tĩnh" dob="??/??/??" gender="Male" wife="Cao Thị Xuyên/" dod="//">
+                    <node name="Lương Văn Phú" dob="??/??/??" gender="Male" wife="Trần Thị Thụy/" dod="//">
+                      <node name="Lương Thị Trang" dob="??/??/??" gender="Female" />
+                      <node name="Lương Văn Phong" dob="??/??/??" gender="Male" />
+                    </node>
+                    <node name="Lương Công Hạnh" dob="??/??/??" gender="Male" />
+                    <node name="Lương Thị Liên" dob="??/??/??" gender="Female" />
+                    <node name="Lương Thị Hoa" dob="??/??/??" gender="Female" />
+                    <node name="Lương Thị Hòa" dob="??/??/??" gender="Female" />
+                    <node name="Lương Thị Hải" dob="??/??/??" gender="Female" />
+                  </node>
+                  <node name="Lương Gia Đại" dob="??/??/??" gender="Male" wife="Đặng Thị Nhượng/Lê Thị Bảo/" dod="//">
+                    <node name="Lương Văn Thắng" dob="??/??/??" gender="Male" />
+                    <node name="Lương Văn Tuấn" dob="??/??/??" gender="Male" />
+                    <node name="Lương Văn Hợp" dob="??/??/??" gender="Male" />
+                    <node name="Lương Văn Cảnh" dob="??/??/??" gender="Male" />
+                    <node name="Lương Thị Thanh" dob="??/??/??" gender="Female" />
+                    <node name="Lương Thị Huyền" dob="??/??/??" gender="Female" />
+                    <node name="Lương Thị Hòa" dob="??/??/??" gender="Female" />
+                    <node name="Lương Thị Ngọc" dob="??/??/??" gender="Female" />
+                  </node>
+                </node>
+              </node>
+              <node name="Lương Văn Nghạch" dob="??/??/??" gender="Male" wife="Đỗ Thị Chước/" dod="2/2/??">
+                <node name="Lương Văn Lễ" dob="??/??/??" gender="Male" />
+                <node name="Lương Thị Nghĩa" dob="??/??/1884" gender="Female" />
+                <node name="Lương Thị Chí" dob="??/??/1886" gender="Female" />
+                <node name="Lương Trung Tín" dob="??/??/??" gender="Male" />
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+</root>
